@@ -1,4 +1,4 @@
-git status
+git status--> Print the status of git resporitory
 git init
 git config --global user.name "Lets Kode It"
 git config --global user.email "sujatavakse9@gmail.com"
